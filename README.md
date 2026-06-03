@@ -131,4 +131,12 @@ git clone https://github.com/Shreya-coder-star/ReceiptManager.git
 - Background threading so the app never freezes even on slower devices
 - Thinking through real user problems and turning them into features that actually help
 
+## 📲 Try It Yourself
+
+Want to try Receipt Manager on your Android phone?
+
+[⬇️ Download APK](https://github.com/Shreya-coder-star/ReceiptManager/raw/main/app-debug.apk)
+
+> Just download, install and try it out. Works on Android 5.0 and above.
+
 
