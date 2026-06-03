@@ -75,9 +75,11 @@ Built entirely with native Android — no cross-platform frameworks.
 | **Background Threading** | Database queries run in background — UI never freezes |
 
 ## Project Structure
+
+```
 app/src/main/java/com/receiptmanager/
 │
-├── ui/                          # All screens
+├── ui/
 │   ├── SplashActivity.kt        # Launch screen with logo animation
 │   ├── MainActivity.kt          # Home — receipt list + date filter
 │   ├── AddReceiptActivity.kt    # Add new receipt form
@@ -98,11 +100,11 @@ app/src/main/java/com/receiptmanager/
 │   └── ReceiptAdapter.kt        # Binds receipts to RecyclerView cards
 │
 └── util/
-├── FileManager.kt           # Save, delete, share files
-├── CategoryHelper.kt        # Category names, colors, emojis
-├── PinManager.kt            # PIN storage and verification
-└── ThemeManager.kt          # Dark/light mode toggle
-
+    ├── FileManager.kt           # Save, delete, share files
+    ├── CategoryHelper.kt        # Category names, colors, emojis
+    ├── PinManager.kt            # PIN storage and verification
+    └── ThemeManager.kt          # Dark/light mode toggle
+```
 
 
 ## How to Run
