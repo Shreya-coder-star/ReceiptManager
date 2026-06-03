@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Receipt Manager</string>
+    <string name="nav_receipt">Receipt</string>
+    <string name="nav_search">Search</string>
+    <string name="add_receipt">+ Add Receipt</string>
+    <string name="create_receipt">Save Receipt</string>
+    <string name="title_hint">Enter bill name</string>
+    <string name="upload_bill">Upload Receipt</string>
+    <string name="calendar">Select Date</string>
+    <string name="search_hint">Search receipts...</string>
+    <string name="delete_title">Delete Receipt</string>
+    <string name="delete">DELETE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="add_receipt_label">New Receipt</string>
+    <string name="label_title">Title</string>
+    <string name="label_date">Date</string>
+    <string name="camera">Take Photo</string>
+    <string name="clear_file">Clear file</string>
+</resources>

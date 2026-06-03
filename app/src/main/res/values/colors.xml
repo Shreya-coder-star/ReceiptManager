@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5C35A0</color>
+    <color name="colorPrimaryDark">#3D1F7A</color>
+    <color name="colorPrimaryLight">#7B52C1</color>
+    <color name="colorAccent">#00C4A7</color>
+    <color name="colorAccentDark">#009E87</color>
+    <color name="colorBackground">#F4F6FA</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorCardBg">#FFFFFF</color>
+    <color name="colorDivider">#E8EAF0</color>
+    <color name="colorTextPrimary">#1A1A2E</color>
+    <color name="colorTextSecondary">#6B7280</color>
+    <color name="colorTextHint">#9CA3AF</color>
+    <color name="colorTextOnPrimary">#FFFFFF</color>
+    <color name="colorInputText">#1A1A2E</color>
+    <color name="colorHintText">#9CA3AF</color>
+    <color name="colorIconPdf">#E53935</color>
+    <color name="colorIconImage">#1E88E5</color>
+    <color name="colorIconDoc">#43A047</color>
+    <color name="colorIconDefault">#FB8C00</color>
+    <color name="colorShareIcon">#1E88E5</color>
+    <color name="colorDeleteIcon">#E53935</color>
+    <color name="colorBillTitle">#1A1A2E</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlue">#1E88E5</color>
+    <color name="colorListBackground">#FFFFFF</color>
+</resources>

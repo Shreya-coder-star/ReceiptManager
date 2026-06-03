@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ReceiptManager" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#7B52C1</item>
+        <item name="colorPrimaryVariant">#3D1F7A</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#00C4A7</item>
+        <item name="colorSecondaryVariant">#009E87</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="android:colorBackground">#121212</item>
+        <item name="android:statusBarColor">#1A0533</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="PinButton">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/pin_button_bg</item>
+    </style>
+</resources>
