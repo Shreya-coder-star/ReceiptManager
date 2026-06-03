@@ -110,7 +110,7 @@ app/src/main/java/com/receiptmanager/
 ## How to Run
 
 ```bash
-git clone https://github.com/Shreya-coder-star/ReceiptManager.git
+https://github.com/Shreya-coder-star/ReceiptManager.git
 ```
 
 1. Open in **Android Studio**
